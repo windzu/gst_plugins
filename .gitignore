@@ -1,0 +1,3 @@
+# ignore all .so and .o files
+*.so
+*.o
